@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testingapi/static/css/main.bf35fd39.css",
+    "main.js": "/testingapi/static/js/main.ecb442d7.js",
+    "static/js/787.510fcad7.chunk.js": "/testingapi/static/js/787.510fcad7.chunk.js",
+    "static/media/chuckNorris.jpg": "/testingapi/static/media/chuckNorris.9d62e208eb72607f3907.jpg",
+    "index.html": "/testingapi/index.html",
+    "main.bf35fd39.css.map": "/testingapi/static/css/main.bf35fd39.css.map",
+    "main.ecb442d7.js.map": "/testingapi/static/js/main.ecb442d7.js.map",
+    "787.510fcad7.chunk.js.map": "/testingapi/static/js/787.510fcad7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf35fd39.css",
+    "static/js/main.ecb442d7.js"
+  ]
+}
